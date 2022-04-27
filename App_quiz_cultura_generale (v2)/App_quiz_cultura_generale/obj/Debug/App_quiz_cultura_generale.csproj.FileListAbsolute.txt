@@ -1,0 +1,40 @@
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe.config
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.pdb
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.AssemblyReference.cache
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Form1.resources
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Properties.Resources.resources
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.GenerateResource.cache
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.CoreCompileInputs.cache
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.exe
+C:\Users\web\source\repos\App_quiz_cultura_generale\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.pdb
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe.config
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.pdb
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csprojAssemblyReference.cache
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Properties.Resources.resources
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.GenerateResource.cache
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.CoreCompileInputs.cache
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.exe
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.pdb
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe.config
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.pdb
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.AssemblyReference.cache
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Form1.resources
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Properties.Resources.resources
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.GenerateResource.cache
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.CoreCompileInputs.cache
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.exe
+C:\Users\web\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.pdb
+C:\Users\rossi.19181\Desktop\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Progetto.resources
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe.config
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.exe
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\bin\Debug\App_quiz_cultura_generale.pdb
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.AssemblyReference.cache
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Progetto.resources
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.Properties.Resources.resources
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.GenerateResource.cache
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.csproj.CoreCompileInputs.cache
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.exe
+E:\App_quiz_cultura_generale (v2)\App_quiz_cultura_generale\obj\Debug\App_quiz_cultura_generale.pdb

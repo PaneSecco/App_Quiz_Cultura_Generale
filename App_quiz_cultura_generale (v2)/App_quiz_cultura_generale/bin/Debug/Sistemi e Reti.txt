@@ -1,0 +1,35 @@
+Da cosa è formata una fibra ottica?
+Materiale isolante e ferro
+Luce e vetro
+Vetro e materiale isolante
+Vetro
+Vetro e materiale isolante
+E' presente il vetro
+Che tipo di bus è un bus rappresentante diversi collegamenti tra gli host della rete?
+Bus lineare
+Bus ad anello
+Bus a stella
+Bus a maglia
+Bus a maglia
+I bus lineare ed ad anello non presentano più di due collegamenti
+Quale tra queste è una rete di città?
+PAN
+WAN
+MAN
+GAN
+MAN
+Sono degli acronimi inglesi, pensa a quale sia la possibile iniziale
+Quale tra questi è un sistema che reagisce solo agli stimoli interni dello stesso?
+Sistema discreto
+Sistema chiuso
+Sistema lineare
+Sistema statico
+Sistema chiuso
+Un esempio di questo sistema è una centrale nucleare (senza contare le manutenzioni umane)
+Quale tra questi componenti della CPU si occupa di dare i comandi alle altre parti del computer?
+ALU
+Cache
+Registri
+CU
+CU
+Questo componente della CPU è nominato da un acronimo
